@@ -130,7 +130,7 @@ super + alt + {Left,Down,Up,Right}
 
 # Firefox
 super + shift + f
-	firefox
+	firefox-esr
 
 # BurpSuite
 super + shift + b
@@ -141,10 +141,4 @@ super + shift + b
 ###############
 
 @Print
-        screenshot select
-
-@Print + ctrl
-        screenshot
-
-@Print + alt
-        screenshot window
+        flameshot gui
