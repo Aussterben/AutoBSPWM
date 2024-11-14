@@ -1,35 +1,14 @@
-# Script Parrot
+_______________
 
-1.- Uso del Script
+# Créditos a xjacksx 
 
-git clone https://github.com/xJackSx/BSPWMparrot.git
+Él hizo todo el script, yo solo lo edité y lo dejé igual que el mío
 
-cd BSPWMparrot
+_______________
 
-chmod +x install.sh
+# INSTALACIÓN
 
-./install.sh
-
-"FULL UPGRADEADO"
-
-y esta pensada en correr en maquinas virtuales de VMware
-
-Buenas compañeros,
-
-Espero les sirva este pequeño aporte
-
-Hare algunas sugerencias que ya dependeran del gusto de cada quien
-
-2.- Wallpaper
-
-El wallpaper de nuestro queridisimo s4vitar esta alojado en una carpeta Wallpaper que se crea en nuestro HOME.
-
-La configuración del mismo es al gusto.
-
-3.- Nvim
-
-Esta no esta incluida en el scripts
-
-UNA MENCION HONORIFICA A Mr. Pr1ngl3s, por su gran colaboración.
-
-UN GRAN SALUDO A NUESTRO GRAN AMIGO S4VITAR.
+> git clone https://github.com/Aussterben/AutoBSPWM
+> cd AutoBspwm
+> chmod +x install.sh
+> ./install.sh
