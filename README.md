@@ -8,7 +8,7 @@ _______________
 
 # INSTALACIÓN
 
-> git clone https://github.com/Aussterben/AutoBSPWM
-> cd AutoBspwm
-> chmod +x install.sh
+> git clone https://github.com/Aussterben/AutoBSPWM &&
+> cd AutoBspwm &&
+> chmod +x install.sh && 
 > ./install.sh
