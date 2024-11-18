@@ -21,7 +21,8 @@ _______________
 # Posibles Errores & Como Arreglarlos
 
 > En este AutoBspwm es posible encontrarte varios errores debido a la configuración de VMware o VirtualBox. Puedes experimentar una lentitud molesta, esto se debe al picom. Puedes hacer varias cosas
-
+> 
+> Recordatorio: Para editar el picom, tienes que hacerlo desde su archivo de configuración, este se encuentra en "~/.config/picom/picom.conf"
 
 > 1. Desactivar/Activar el Vsync:
 Este AutoBspwm viene con el Vsync activo ya que viene basado en mis configuraciones
