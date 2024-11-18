@@ -36,5 +36,6 @@ _______________
 
 # Resultado Final
 
-![Terminal Abierta](/images/image)
-![Terminal Cerrada](/images/image2)
+![Primera imagen](Images/image.png)
+![Segunda imagen](Images/image2.png)
+
