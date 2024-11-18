@@ -33,3 +33,8 @@ Si así te va mal, puedes desactivar las sombras
 Desactivar el blur te ayudará bastante, pues esto lo hace más lento
 
 _______________
+
+# Resultado Final
+
+![Terminal Abierta](/images/image)
+![Terminal Cerrada](/images/image2)
